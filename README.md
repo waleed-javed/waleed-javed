@@ -102,6 +102,8 @@ Python | C# | MSSQLSERVER | REACT | DotNeTCore | [HashNode][Blog_Link]
 ### Some Stats: 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nescafestar)
 
+![Total Visitors](https://komarev.com/ghpvc/?username=nescafestar&label=Profile%20views&color=0e75b6&style=flat")
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nescafestar&show_icons=true&locale=en&layout=compact&theme=radical)
 
 ![Git Stat](https://github-readme-stats.vercel.app/api?username=nescafestar&theme=radical)
