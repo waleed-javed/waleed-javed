@@ -3,7 +3,8 @@
 ![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png)
 
 ### Python | C# | MSSQLSERVER | REACT | DotNeTCore | [HashNode](https://hashnode.com/@waleedjavied)
-
+   - Graduated @ [COMSATS University Islamabad (CUI)][Uni_Link]
+   - <Code>20+ years of living a comical life!</code>
 ```js
 export default () => ({
   Pronouns: "He" | "Him",
@@ -12,6 +13,7 @@ export default () => ({
     "webdev", "tech", "data", "research"
   ],
   Experience: [
+    "Team Member Microsoft Learn Students Community",
     "Intern at SPARKS GRIP Foundation, Singapore",
     "Intern at Interns Pakistan, Pakistan",
     "Co-Founder && CTO Think Tank Education Service"
@@ -30,22 +32,23 @@ export default () => ({
   ]});
  ```
  
-   - Graduated @ [COMSATS University Islamabad (CUI)][Uni_Link]
-   - <Code>20+ years of living a comical life!</code>
-   - Team member @ [Microsoft Learn Students Community][MLSA_Link]
-   - <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> Your Neighbourhood Dev
+
+   <!-- Team member @ [Microsoft Learn Students Community][MLSA_Link]
+   - <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> Your Neighbourhood Dev -->
    - <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px"> A Learning Enthusiast obsessed with daily improvement routine
     
     - I Love Making Stuff With Web Development && Machine Learning
  
-- 🔭 I’m currently working on <code>**Machine Learning**</code> Projects
+  - 🔭 I’m currently working on <code>**Machine Learning**</code> Projects
 <!-- - 🌱 I’m learning to create **ML based solutions**
 - 👯 I’m looking to **Collaborate on Startups**
 - 🤔 I’m looking for help with <code>**Integrating Search Query -Contex Based Reslult retrieval**</code>
 - 💬 Ask me about How i Learned <code>**Full stack**</code> **from Scratch** own my own -->
-- 📫 Ping me on any of the below, i'll be **happy to chat!**
+   - 😄 : **Laptop**, **Coffee**, **Coding**... **HackerRank**
+   - ⚡ Fun fact: <code> **Each breath gives you a 2 minute life extention.**</code>
+   - 📫 Ping me on any of the below, i'll be **happy to chat!**
 
-<p align="left">
+<p align="center">
   <a href="https://dev.to/waleedjaved" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="waleedjaved" height="30" width="40" /></a>
   <a href="https://twitter.com/littweeper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="littweeper" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/muhammad-waleedjavied" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammad-waleedjavied" height="30" width="40" /></a>
@@ -54,14 +57,10 @@ export default () => ({
 </p>
 
   <!-- [![Insta Badge](https://img.shields.io/badge/-@waleed-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][Insta_Handle] 
-
   [![Twitter Badge](https://img.shields.io/badge/-@Waleed-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)][Twitter_Handle] 
   [![Linkedin Badge](https://img.shields.io/badge/-WaleedJaved-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][Linkedin_Handle] 
-
   [![Youtube Badge](https://img.shields.io/badge/-iMalware-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)][Youtube_Handle] 
   [![Mail Badge](https://img.shields.io/badge/-WaleedJaved-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][Mail_me] -->
-- 😄 : **Laptop**, **Coffee**, **Coding**... **HackerRank**
-- ⚡ Fun fact: <code> **Each breath gives you a 2 minute life extention.**</code>
 
 <hr/>
 <img align="right" height="320" src="./images/gif3.gif">
@@ -130,7 +129,10 @@ export default () => ({
   </a>
 </p>
 
-
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nescafestar&show_icons=true&locale=en&layout=compact&theme=radical">
+</p>
+<br/>
 <p align="center">
   <a>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
@@ -138,13 +140,16 @@ export default () => ({
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
 <br/>
+
 <p align="center">
-<img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=nescafestar&show_icons=false&count_private=true&theme=radical">
+<img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=nescafestar&show_icons=false&count_private=true&theme=radical">  
 </p>
+
+![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png)
+
 <h3 align="center"> Hey! Before you Leave! Show some &nbsp;❤️&nbsp; by 🌟 the repositories!</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nescafestar)
-![Total Visitors](https://komarev.com/ghpvc/?username=nescafestar&label=Profile%20views&color=0e75b6&style=flat")
+### Total ![visitors](https://visitor-badge.glitch.me/badge?page_id=nescafestar) new ![Total Visitors](https://komarev.com/ghpvc/?username=nescafestar&label=Profile%20views&color=0e75b6&style=flat")
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nescafestar&show_icons=true&locale=en&layout=compact&theme=radical) -->
 
