@@ -4,20 +4,45 @@
 
 ### Python | C# | MSSQLSERVER | REACT | DotNeTCore | [HashNode](https://hashnode.com/@waleedjavied)
 
+```js
+export default () => ({
+  Pronouns: "He" | "Him",
+  blogUrl: "https://hashnode.com/@waleedjavied",
+  askMeAbout: [
+    "webdev", "tech", "data", "research"
+  ],
+  Experience: [
+    "Intern at SPARKS GRIP Foundation, Singapore",
+    "Intern at Interns Pakistan, Pakistan",
+    "Co-Founder && CTO Think Tank Education Service"
+  ],
+  Acheivement: [
+    "PEEF Scholarship Holder",
+    "PMLN Laptop Holder"
+  ],
+  Skills: [
+    "Leadership", "Team Building", "Decision Making",
+    "Problem Solving", "Time Management", "Rapid Learner" 
+  ],
+  Interest: [
+    "Technology", "Blogging", "Reading Books",
+    "Scientific Experimenting", "Music", "Video games" 
+  ]});
+ ```
  
    - Graduated @ [COMSATS University Islamabad (CUI)][Uni_Link]
-   - <Code>22 years of living a comical life!</code>
+   - <Code>20+ years of living a comical life!</code>
    - Team member @ [Microsoft Learn Students Community][MLSA_Link]
    - <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> Your Neighbourhood Dev
-   - <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px"> A Learning Enthusiast obsessed with the idea of daily improving myself to grow and excel
+   - <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px"> A Learning Enthusiast obsessed with daily improvement routine
     
-    - I Love making crazy stuff with Web Development and Machine Learning
+    - I Love Making Stuff With Web Development && Machine Learning
  
 - 🔭 I’m currently working on <code>**Machine Learning**</code> Projects
-- 🌱 I’m learning to create **ML based solutions**
+<!-- - 🌱 I’m learning to create **ML based solutions**
 - 👯 I’m looking to **Collaborate on Startups**
 - 🤔 I’m looking for help with <code>**Integrating Search Query -Contex Based Reslult retrieval**</code>
-- 💬 Ask me about How i Learned <code>**Full stack**</code> **from Scratch** own my own
+- 💬 Ask me about How i Learned <code>**Full stack**</code> **from Scratch** own my own -->
 - 📫 Ping me on any of the below, i'll be **happy to chat!**
 
 <p align="left">
@@ -35,7 +60,7 @@
 
   [![Youtube Badge](https://img.shields.io/badge/-iMalware-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)][Youtube_Handle] 
   [![Mail Badge](https://img.shields.io/badge/-WaleedJaved-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][Mail_me] -->
-- 😄 Pronouns: **Laptop**, **Coffee**, **Coding**... **HackerRank**
+- 😄 : **Laptop**, **Coffee**, **Coding**... **HackerRank**
 - ⚡ Fun fact: <code> **Each breath gives you a 2 minute life extention.**</code>
 
 <hr/>
@@ -97,13 +122,14 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
   </div>
- 
+ </div><br>
    <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=nescafestar&theme=gruvbox"/>
   </a>
 </p>
+
 
 <p align="center">
   <a>
@@ -112,18 +138,12 @@
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
 <br/>
- 
- 
-<h2><summary align="center">Github Stats 📈</summary></h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=nescafestar&show_icons=true&count_private=true&theme=radical">
+<img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=nescafestar&show_icons=false&count_private=true&theme=radical">
 </p>
-  
-</div>
+<h3 align="center"> Hey! Before you Leave! Show some &nbsp;❤️&nbsp; by 🌟 the repositories!</h3>
 
-### Some Stats: 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nescafestar)
-
 ![Total Visitors](https://komarev.com/ghpvc/?username=nescafestar&label=Profile%20views&color=0e75b6&style=flat")
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nescafestar&show_icons=true&locale=en&layout=compact&theme=radical) -->
@@ -133,7 +153,6 @@
 <!-- ![Git Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nescafestar&theme=radical) -->
 
 
-<h3 align="center"> Hey! Before you Leave! Show some &nbsp;❤️&nbsp; by 🌟 the repositories!</h3>
 
 <!-- Configuration stuff -->
 <!-- ////////////////////////////////////////////////////////////////////////////// -->
