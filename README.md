@@ -1,6 +1,8 @@
-# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="./images/Hi.gif" width="30px"> [Waleed][linkedin_Handle] Here...
 
-Python | C# | MSSQLSERVER | REACT | DotNeTCore | [HashNode][Blog_Link]
+# Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="./images/Hi.gif" width="30px"> I'm [Waleed][linkedin_Handle]
+![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png)
+
+### Python | C# | MSSQLSERVER | REACT | DotNeTCore | [HashNode](https://hashnode.com/@waleedjavied)
 
  
    - Graduated @ [COMSATS University Islamabad (CUI)][Uni_Link]
@@ -36,6 +38,8 @@ Python | C# | MSSQLSERVER | REACT | DotNeTCore | [HashNode][Blog_Link]
 - 😄 Pronouns: **Laptop**, **Coffee**, **Coding**... **HackerRank**
 - ⚡ Fun fact: <code> **Each breath gives you a 2 minute life extention.**</code>
 
+<hr/>
+<img align="right" height="320" src="./images/gif3.gif">
 
 #### Top Technologies
 
@@ -48,7 +52,11 @@ Python | C# | MSSQLSERVER | REACT | DotNeTCore | [HashNode][Blog_Link]
   - [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=white&logo=Python&logoColor=3776AB)](#)
 - [![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&labelColor=white&logo=jupyter&logoColor=F37626)](#)
 
-### Technologies I have Experienced
+
+<img align="left" height="320" width="320" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/cool2.gif">
+
+
+### Other have Experiences
 
 <div class="row" style="box-sizing: border-box; display:flex;">
   <div class="column" style="float: left;width: 50%;padding: 10px;">
@@ -66,8 +74,8 @@ Python | C# | MSSQLSERVER | REACT | DotNeTCore | [HashNode][Blog_Link]
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-   
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -77,8 +85,6 @@ Python | C# | MSSQLSERVER | REACT | DotNeTCore | [HashNode][Blog_Link]
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -91,12 +97,28 @@ Python | C# | MSSQLSERVER | REACT | DotNeTCore | [HashNode][Blog_Link]
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
   </div>
-  <div class="column" style="float: left;width: 50%;padding: 10px;">
-   <img src="./images/gif3.gif" height="300px"/> <!--coder image goes here  -->
-   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nescafestar" alt="nescafestar" /></a> </p>
+ 
+   <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=nescafestar&theme=gruvbox"/>
+  </a>
+</p>
 
-  </div>
+<p align="center">
+  <a>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nescafestar&theme=dark&hide_border=true"/>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
+</p>
+<br/>
+ 
+ 
+<h2><summary align="center">Github Stats 📈</summary></h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=nescafestar&show_icons=true&count_private=true&theme=radical">
+</p>
+  
 </div>
 
 ### Some Stats: 
@@ -104,11 +126,12 @@ Python | C# | MSSQLSERVER | REACT | DotNeTCore | [HashNode][Blog_Link]
 
 ![Total Visitors](https://komarev.com/ghpvc/?username=nescafestar&label=Profile%20views&color=0e75b6&style=flat")
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nescafestar&show_icons=true&locale=en&layout=compact&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nescafestar&show_icons=true&locale=en&layout=compact&theme=radical) -->
 
-![Git Stat](https://github-readme-stats.vercel.app/api?username=nescafestar&theme=radical)
+<!-- ![Git Stat](https://github-readme-stats.vercel.app/api?username=nescafestar&theme=radical) -->
 
-![Git Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nescafestar&theme=radical)
+<!-- ![Git Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nescafestar&theme=radical) -->
+
 
 <h3 align="center"> Hey! Before you Leave! Show some &nbsp;❤️&nbsp; by 🌟 the repositories!</h3>
 
