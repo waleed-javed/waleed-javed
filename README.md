@@ -1,6 +1,9 @@
 
 # Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="./images/Hi.gif" width="30px"> I'm [Waleed][linkedin_Handle]
-![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png)
+<!--![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png) -->
+<p align="center">
+    <img align="center" src="./images/open_source.png">
+</p>
 
 ### Python | C# | MSSQLSERVER | REACT | DotNeTCore | [HashNode](https://hashnode.com/@waleedjavied)
    - Graduated @ [COMSATS University Islamabad (CUI)][Uni_Link]
