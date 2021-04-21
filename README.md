@@ -84,15 +84,12 @@ export default () => ({
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
      <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
-   <img src="https://github-profile-trophy.vercel.app/?username=waleed-javed&theme=gruvbox"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleed-javed&show_icons=true&locale=en&layout=compact&theme=radical">
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
     
   </a>
 </p>
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleed-javed&show_icons=true&locale=en&layout=compact&theme=radical">
-</p>
 <br/>
 <p align="center">
   <a>
@@ -103,7 +100,7 @@ export default () => ({
 <br/>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=waleed-javed&show_icons=false&count_private=true&theme=radical">  
+<img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=waleed-javed&show_icons=false&count_private=true&theme=dark">  
 </p>
 
 
