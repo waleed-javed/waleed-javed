@@ -128,31 +128,31 @@ export default () => ({
    <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=nescafestar&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=waleed-javed&theme=gruvbox"/>
   </a>
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nescafestar&show_icons=true&locale=en&layout=compact&theme=radical">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleed-javed&show_icons=true&locale=en&layout=compact&theme=radical">
 </p>
 <br/>
 <p align="center">
   <a>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nescafestar&theme=dark&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waleed-javed&theme=dark&hide_border=true"/>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
 <br/>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=nescafestar&show_icons=false&count_private=true&theme=radical">  
+<img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=waleed-javed&show_icons=false&count_private=true&theme=radical">  
 </p>
 
 ![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png)
 
 <h3 align="center"> Hey! Before you Leave! Show some &nbsp;❤️&nbsp; by 🌟 the repositories!</h3>
 
-### Total ![visitors](https://visitor-badge.glitch.me/badge?page_id=nescafestar) new ![Total Visitors](https://komarev.com/ghpvc/?username=nescafestar&label=Profile%20views&color=0e75b6&style=flat")
+### Total ![visitors](https://visitor-badge.glitch.me/badge?page_id=waleed-javed) new ![Total Visitors](https://komarev.com/ghpvc/?username=waleed-javed&label=Profile%20views&color=0e75b6&style=flat")
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nescafestar&show_icons=true&locale=en&layout=compact&theme=radical) -->
 
