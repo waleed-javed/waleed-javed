@@ -1,8 +1,8 @@
 
-# <𝚌𝚘𝚍𝚎𝚛𝚜> Hi <img src="./images/Hi.gif" width="30px"> I'm [Waleed][linkedin_Handle]  !  </𝚌𝚘𝚍𝚎𝚛𝚜>
+## <𝚌𝚘𝚍𝚎𝚛𝚜> Hi <img src="./images/Hi.gif" width="30px"> I'm [Waleed][linkedin_Handle]  !  </𝚌𝚘𝚍𝚎𝚛𝚜>
 <p align="center"> <img align="center" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png"> </p>
 
-## Python | C# | MSSQLSERVER | REACT | DotNeTCore | [HashNode](https://waleed.hashnode.dev)
+## Python | C# | MS-SQL-SERVER | DotNeT | [HashNode](https://waleed.hashnode.dev)
    - Graduated @2021 [COMSATS University Islamabad (CUI)][Uni_Link]
    - <Code>20+ years of living a comical life!</code>
 ```js
@@ -42,7 +42,7 @@ export default () => ({
 ### Tech Stack
 <div class="row" style="box-sizing: border-box; display:flex;">
   <div class="column" style="float: right;width: 50%;padding: 10px;">
-      <p align="right">  
+      <p align="center">  
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -62,10 +62,6 @@ export default () => ({
   </div>
 </div>
 
----
-
-### Technologies I Love
-
 <!-- TODO: Make technologies links takes you to repositories -->
 - [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=white&logo=javascript&logoColor=F0DB4F)](#)
   - [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=white&logo=react&logoColor=61DBFB)](#) 
@@ -75,6 +71,7 @@ export default () => ({
   - [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=white&logo=Python&logoColor=3776AB)](#)
 - [![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&labelColor=white&logo=jupyter&logoColor=F37626)](#)
 
+---
 
 ### GitHub Stats
 
