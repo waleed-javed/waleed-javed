@@ -38,7 +38,7 @@ export default () => ({
 </p>
 
 ---
-<img align="right" height="320" src="./images/gif3.gif">
+<img align="right" height="320" width="320" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/cool2.gif"/>
 
 #### Top Technologies
 
@@ -52,7 +52,7 @@ export default () => ({
 - [![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&labelColor=white&logo=jupyter&logoColor=F37626)](#)
 
 
-<img align="left" height="320" width="320" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/cool2.gif">
+
 
 
 ### Other have Experiences
@@ -79,29 +79,30 @@ export default () => ({
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
   </div>
- </div><br>
-   <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-     <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleed-javed&show_icons=true&locale=en&layout=compact&theme=radical">
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
-    
+ </div>
+   <h2> <summary align="center">GitHub Stats</summary></h2>
+
+<!-- <p align="center">
+  <a href="https://github.com/waleed-javed/github-profile-trophy" target="_blank">
+      <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleed-javed&show_icons=true&locale=en&layout=compact&theme=radical">
+      <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
   </a>
-</p>
+</p> -->
 
-<br/>
-<p align="center">
-  <a>
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waleed-javed&theme=dark&hide_border=true"/>
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
-</p>
-<br/>
 
 <p align="center">
+   <a href="https://github.com/waleed-javed/github-profile-trophy" target="_blank">
+      <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waleed-javed&theme=dark&hide_border=true"/>
+      <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
+   </a>
+</p>
+<br/>
+
+<!-- <p align="center">
 <img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=waleed-javed&show_icons=false&count_private=true&theme=dark">  
-</p>
+</p> -->
 
 
 <h3 align="center"> Hey! Before you Leave! Show some &nbsp;❤️&nbsp; by 🌟 the repositories!</h3>
