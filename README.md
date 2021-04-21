@@ -83,7 +83,10 @@ export default () => ({
    <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=waleed-javed&theme=gruvbox"/>
+     <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+   <img src="https://github-profile-trophy.vercel.app/?username=waleed-javed&theme=gruvbox"/>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
+    
   </a>
 </p>
 
