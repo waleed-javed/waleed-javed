@@ -2,14 +2,16 @@
 ## <𝚌𝚘𝚍𝚎𝚛𝚜> Hi <img src="./images/Hi.gif" width="30px"> I'm [Waleed][linkedin_Handle]  !  </𝚌𝚘𝚍𝚎𝚛𝚜>
 <p align="center"> <img align="center" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png"> </p>
 
-## Python | C# | MS-SQL-SERVER | DotNeT | [HashNode](https://waleed.hashnode.dev)
+## React | C# | AWS | DotNeT Core | [Blog](https://waleed.hashnode.dev)
    - Graduated @2021 [COMSATS University Islamabad (CUI)][Uni_Link]
-   - <Code>20+ years of living a comical life!</code>
+<!--    - <Code>23+ years of living a comical life!</code> -->
 ```js
 export default () => ({
   Pronouns: "He" | "Him",
+  Portfolio: "WaleedJaved.com",
   blogUrl: "https://waleed.hashnode.dev",
   Experience: [
+    "FullStack Engineer at CodeBuilderz, Irvine, CA"
     "Intern at SPARKS GRIP Foundation, Singapore",
     "Intern at Interns Pakistan, Pakistan",
     "Co-Founder && CTO Think Tank Education Service"
@@ -23,9 +25,9 @@ export default () => ({
     "Scientific Experimenting" 
   ]});
  ```
-  - I Love Making Stuff With Web Development && Machine Learning
-  - 🔭 I’m currently working on <code>**Machine Learning**</code> Projects
-  - 😄 : **Laptop**, **Coffee**, **Coding**... **HackerRank**
+  - Love Making solutions via Web Development && Machine Learning
+  - 🔭 Currently working on <code>**AWS and React.js**</code> Projects
+  - 😄 : **Laptop**, **Coffee**, **Coding**... **Startup!**
   - ⚡ Fun fact: <code> **Each breath gives you a 2 minute life extention.**</code>
   - 📫 Ping me on any of the below, i'll be **happy to chat!**
 
