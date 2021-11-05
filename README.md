@@ -88,9 +88,9 @@ export default () => ({
 
 <p align="center">
    <a href="https://github.com/waleed-javed/github-profile-trophy" target="_blank">
-      <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+<!--       <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png"> -->
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=waleed-javed&hide_border=true"/>
-      <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
+<!--       <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png"> -->
    </a>
 </p>
 <br/>
