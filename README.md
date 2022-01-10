@@ -2,15 +2,15 @@
 ## <𝚌𝚘𝚍𝚎𝚛𝚜> Hi <img src="./images/Hi.gif" width="30px"> I'm [Waleed][linkedin_Handle]  !  </𝚌𝚘𝚍𝚎𝚛𝚜>
 <p align="center"> <img align="center" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png"> </p>
 
-## React | C# | AWS | DotNeT Core | [Blog](https://waleed.hashnode.dev)
-   - Graduated @2021 [COMSATS University Islamabad (CUI)][Uni_Link]
+## React | AWS | .NeT Core | [Blogging](https://chaudhary.codes)
 <!--    - <Code>23+ years of living a comical life!</code> -->
 ```js
 export default () => ({
   Pronouns: "He" | "Him",
   Portfolio: "WaleedJaved.com",
-  blogUrl: "https://waleed.hashnode.dev",
+  blogUrl: "https://chaudhary.codes",
   Experience: [
+    "Founder Syntehtic.com"
     "FullStack Engineer at CodeBuilderz, Irvine, CA"
     "Intern at SPARKS GRIP Foundation, Singapore",
     "Intern at Interns Pakistan, Pakistan",
@@ -25,6 +25,7 @@ export default () => ({
     "Scientific Experimenting" 
   ]});
  ```
+ 
   - Love Making solutions via Web Development && Machine Learning
   - 🔭 Currently working on <code>**AWS and React.js**</code> Projects
   - 😄 : **Laptop**, **Coffee**, **Coding**... **Startup!**
@@ -40,7 +41,8 @@ export default () => ({
 </p>
 
 ---
-
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+---
 ### Tech Stack
 <div class="row" style="box-sizing: border-box; display:flex;">
   <div class="column" style="float: right;width: 50%;padding: 10px;">
