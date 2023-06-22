@@ -52,9 +52,9 @@ export default () => ({
  });
  ```
  
-  - Love Making solutions via Web Development && Machine Learning
-  - 🔭 Currently working on <code>**AWS and React.js**</code> Projects
-  - 😄 : **Laptop**, **Coffee**, **Coding**... **Startup!**
+  - Creating Web based Solutions
+  - 🔭 Currently working on <code>**AWS & Angular**</code> Projects
+  - 😄 : **Laptop**, **Coffee**, **Coding**... **Products!**
   - ⚡ Fun fact: <code> **Each breath gives you a 2 minute life extention.**</code>
   - 📫 Ping me on any of the below, i'll be **happy to chat!**
 
@@ -129,8 +129,6 @@ export default () => ({
 
 
 <h3 align="center"> Hey! Before you Leave! Show some &nbsp;❤️&nbsp; by 🌟 the repositories!</h3>
-
-### Total ![visitors](https://visitor-badge.glitch.me/badge?page_id=waleed-javed)
 
 [Blog_Link]:(https://hashnode.com/@waleedjavied)
 [Uni_Link]:(https://www.comsats.edu.pk)
