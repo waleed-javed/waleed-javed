@@ -15,7 +15,7 @@ export default () => ({
             waleed.hashnode.dev],
   
   Experience: [    
-    Software Engineer  @ Xavor Corporate,
+    Senior Software Engineer  @ Xavor Corporate,
     FullStack Engineer @ QaboolHai, Lahore, PK
     FullStack Engineer @ CodeBuilderz, Irvine, CA,
          /*Founded*/
