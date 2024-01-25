@@ -3,106 +3,29 @@
 <p align="center"> <img align="center" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png"> </p>
 
 ```js
-└[ About Me]
-├────[ Pronouns ]
-│    │
-│    ├── "He"
-│    └──── "Him"
-│
-├────[ Portfolio ]
-│    │
-│    └──── "waleedjaved-portfolio.netlify.app"
-│
-├────[ BlogUrl ]
-│    │
-│    └──── "waleed.hashnode.dev"
-│
-├────[ Experience ]
-│    │
-│    ├── "Senior Software Engineer @ Xavor Corporate"
-│    ├── "FullStack Engineer @ QaboolHai, Lahore, PK"
-│    ├── "FullStack Engineer @ CodeBuilderz, Irvine, CA"
-│    ├───────── "Co-Founder @ Ghamiz LLC"
-│    ├───────── "Founder / Owner / CEO @ Synthetech LLC"
-│    ├───────── "Co-Founder / CTO @ Think Tank Education Service"
-│    ├── "Intern @ SPARKS GRIP Foundation, Singapore"
-│    └── "Intern @ Interns Pakistan, Pakistan"
-│
-├────[ Skills ]
-│    │
-│    ├────[ 𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 ],
-│    │    │
-│    │    ├──── Lambdas
-│    │    ├──── DynamoDB
-│    │    ├──── S3
-│    │    ├──── Cognito
-│    │    ├──── Web Sockets
-│    │    └──── VPS
-│    │
-│    ├────[ F𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤 ]
-│    │    │
-│    │    ├──── [ 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝  ]
-│    │    │     │
-│    │    │     ├──── JavaScript
-│    │    │     ├──── React
-│    │    │     ├──── Node
-│    │    │     ├──── Express
-│    │    │     └──── Angular
-│    │    │     
-│    │    └──── [ 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 ]
-│    │    │     │
-│    │    │     ├──── NodeJS
-│    │    │     ├──── ExpressJs
-│    │    │     ├──── C# .NET Core
-│    │    │     └──── ASP.NET M.V.C 
-│    │    │     
-│    │    └──── [ Styling ]
-│    │          │
-│    │          ├──── Tailwind-CSS
-│    │          ├──── Styled-Component
-│    │          ├──── Material-Components
-│    │          └──── SCSS
-│    │
-│    ├────[ 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 ],
-│    │    │
-│    │    ├──── AWS S3 Storage
-│    │    ├──── DynamoDB
-│    │    ├──── MS SQL Server
-│    │    ├──── MySQL
-│    │    └──── RDS
-│    │
-│    ├────[ 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐏𝐫𝐨𝐭𝐨𝐜𝐨𝐥𝐬 ],
-│    │    │
-│    │    ├──── HTTP/s
-│    │    ├──── TCP/IP
-│    │    ├──── UDP
-│    │    ├──── CURL
-│    │    ├──── Web Sockets
-│    │    ├──── FCM
-│    │    ├──── RESTful
-│    │    └──── Authorizers
-│    │
-│    ├────[ 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 & 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 ],
-│    │    │
-│    │    ├──── Mocking Lambdas (𝘚𝘦𝘳𝘷𝘦𝘳𝘭𝘦𝘴𝘴-𝘛𝘦𝘴𝘵𝘪𝘯𝘨)
-│    │    ├──── Selenium (𝘞𝘦𝘣-𝘈𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘰𝘯-𝘛𝘦𝘴𝘵𝘪𝘯𝘨)
-│    │    └──── Postman (𝘈𝘗𝘐-𝘛𝘦𝘴𝘵𝘪𝘯𝘨)
-│    │
-│    └────[ 𝐎𝐭h𝐞𝐫 𝐒𝐤𝐢𝐥𝐥𝐬 ],
-│         │
-│         ├──── Team Building
-│         ├──── Problem Solving
-│         ├──── Decision Making
-│         ├──── Time Management
-│         ├──── Active Learning
-│         └──── Leadership
-│
-└────[ Interest ]
-       │
-       ├──── Intelligent Systems
-       ├──── Blogging
-       ├──── Reading Books
-       └──── Scientific Experimenting
+├────── Pronouns ────── "He" ─ "Him"
+├────── BlogUrl ────── "waleed.hashnode.dev"
+├────── Portfolio ────── "waleedjaved-portfolio.netlify.app"
+├────── Experience
+│          ├── "Senior Software Engineer @ Xavor Corporate"
+│          ├── "FullStack Engineer @ QaboolHai, Lahore, PK"
+│          ├── "FullStack Engineer @ CodeBuilderz, Irvine, CA"
+│          ├────── "Co-Founder @ Ghamiz LLC"
+│          ├────── "Founder / Owner / CEO @ Synthetech LLC"
+│          ├────── "Co-Founder / CTO @ Think Tank Education Service"
+│          ├──── "Intern @ SPARKS GRIP Foundation, Singapore"
+│          └──── "Intern @ Interns Pakistan, Pakistan"
+├──── Skills 
+│        ├─── FullStack ──────── FrontEnd ─── JavaScript, React, Node, Express, Angular
+│        │              └─────── BackEnd ──── NodeJS, ExpressJs, C# .NET Core, ASP.NET M.V.C
+│        ├─── Styling ─────────────────────── Tailwind-CSS, Styled-Component, Material-Components, SCSS
+│        ├─── AWS Cloud Services ──────────── Lambdas, DynamoDB, S3, Cognito, Web Sockets, VPS
+│        ├─── Database ────────── AWS S3 Storage, DynamoDB, MS SQL Server, MySQL, RDS
+│        ├─── Networking ─────────── HTTP/s, TCP/IP, UDP, CURL, Web Sockets, FCM, RESTful, Authorizers
+│        └─── Testing/Security ────────────── Mocking Lambdas (𝘚𝘦𝘳𝘷𝘦𝘳𝘭𝘦𝘴𝘴-𝘛𝘦𝘴𝘵𝘪𝘯𝘨), Selenium (𝘞𝘦𝘣-𝘈𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘰𝘯-𝘛𝘦𝘴𝘵𝘪𝘯𝘨), Postman (𝘈𝘗𝘐-𝘛𝘦𝘴𝘵𝘪𝘯𝘨)
+│        │
+│        └─── Essentials ──── Team Building, Problem Solving, Decision Making, Time Management, Active Learning, Leadership
+└──────── Interest ──── Intelligent Systems, Blogging, Reading Books, Scientific Experimenting
 
  ```
  
