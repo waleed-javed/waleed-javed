@@ -21,9 +21,9 @@
 │        │              └─────── BackEnd ──── NodeJS, ExpressJs, C# .NET Core, ASP.NET M.V.C
 │        ├─── Styling ─────────────────────── Tailwind-CSS, Styled-Component, Material-Components, SCSS
 │        ├─── AWS Cloud Services ──────────── Lambdas, DynamoDB, S3, Cognito, Web Sockets, VPS
-│        ├─── Database ────────── AWS S3 Storage, DynamoDB, MS SQL Server, MySQL, RDS
-│        ├─── Networking ─────────── HTTP/s, TCP/IP, UDP, CURL, Web Sockets, FCM, RESTful, Authorizers
-│        └─── Security ────────────── Mocking Lambdas (𝘚𝘦𝘳𝘷𝘦𝘳𝘭𝘦𝘴𝘴-𝘛𝘦𝘴𝘵𝘪𝘯𝘨), Selenium (𝘞𝘦𝘣-𝘈𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘰𝘯-𝘛𝘦𝘴𝘵𝘪𝘯𝘨), Postman (𝘈𝘗𝘐-𝘛𝘦𝘴𝘵𝘪𝘯𝘨)
+│        ├─── Database ───────── AWS S3 Storage, DynamoDB, MS SQL Server, MySQL, RDS
+│        ├─── Networking ─────── HTTP/s, TCP/IP, UDP, CURL, Web Sockets, FCM, RESTful, Authorizers
+│        └─── Security ───────── Mocking Lambdas (𝘚𝘦𝘳𝘷𝘦𝘳𝘭𝘦𝘴𝘴-𝘛𝘦𝘴𝘵𝘪𝘯𝘨), Selenium (𝘞𝘦𝘣-𝘈𝘶𝘵𝘰𝘮𝘢𝘵𝘪𝘰𝘯-𝘛𝘦𝘴𝘵𝘪𝘯𝘨), Postman (𝘈𝘗𝘐-𝘛𝘦𝘴𝘵𝘪𝘯𝘨)
 │        │
 │        └─── Essentials ──── Team Building, Problem Solving, Decision Making, Time Management, Active Learning, Leadership
 └──────── Interest ──── Intelligent Systems, Blogging, Reading Books, Scientific Experimenting
